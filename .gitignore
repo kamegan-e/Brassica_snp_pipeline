@@ -1,0 +1,19 @@
+# Données lourdes
+data/
+ref/
+results/
+
+# Fichiers bioinfo
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.sam
+*.vcf
+*.gz
+
+# Logs
+*.log
+
+# Autres
+*.tmp
